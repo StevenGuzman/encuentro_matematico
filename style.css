@@ -1,0 +1,18 @@
+
+.kirby{
+
+    position: relative;
+    float: right;
+}
+
+
+
+.canvas{
+    position: relative;
+    float: left;
+}
+
+.audio{
+    position: relative;
+    margin-top: 1000px;
+}
